@@ -1,6 +1,6 @@
-# Hospital / Clinic System — database design
+# LaurineCare Hospital - Hospital / Clinic System — database design
 
-My case study records patient, clinician, appointment, encounter.
+My case study records core clinical data across four main entities: patient, clinician, appointment, and encounter.
 
 ## Users
 
