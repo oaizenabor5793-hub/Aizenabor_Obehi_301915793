@@ -1,4 +1,4 @@
-# Hospital / Clinic System — normalisation
+# LaurineCare Hospital - Hospital / Clinic System — normalisation
 
 The example uses the saved sample records. The full set of fields is in the design and schema.
 
