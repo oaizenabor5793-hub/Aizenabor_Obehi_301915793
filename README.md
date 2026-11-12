@@ -1,4 +1,4 @@
-# Hospital / Clinic System
+# LaurineCare Hospital - Hospital / Clinic System
 
 Obehi Aizenabor · Student ID 301915793
 
