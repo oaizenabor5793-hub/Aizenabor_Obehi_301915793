@@ -1,4 +1,4 @@
-# Hospital / Clinic System — ER diagram
+# LaurineCare Hospital - Hospital / Clinic System — ER diagram
 
 ```mermaid
 erDiagram
