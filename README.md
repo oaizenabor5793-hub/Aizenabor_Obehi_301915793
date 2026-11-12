@@ -10,4 +10,4 @@ The portfolio uses fictional records for Hospital / Clinic System.
 - [Portfolio 4](portfolio-4-nosql/)
 - [Portfolio 5](portfolio-5-distributed-cloud/)
 
-[Final summary](Aizenabor_Obehi_301915793_FinalSummary.md) · [PDF](Aizenabor_Obehi_301915793_FinalSummary.pdf)
+[Final summary](Aizenabor_Obehi_301915793_FinalSummary.md) 
