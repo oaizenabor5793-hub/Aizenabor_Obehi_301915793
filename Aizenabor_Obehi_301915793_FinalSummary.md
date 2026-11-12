@@ -1,16 +1,16 @@
 # MIT 8103 Advanced Database Systems
 
-**Hospital / Clinic System** · Obehi Aizenabor · Student ID 301915793
+**LaurineCare Hospital - Hospital / Clinic System** · Obehi Aizenabor · Student ID 301915793
 
 ## Case study
 
-My case study is Hospital / Clinic System. I designed the database for clinic schedulers, clinicians and clinic administrators, with separate tables named patient, clinician, appointment and encounter. It supports these operations: register a patient and clinician; schedule, reschedule, or cancel an appointment; record an encounter summary.
+My case study is LaurineCare Hospital - Hospital / Clinic System. I designed the database for clinic schedulers, clinicians and clinic administrators, with separate tables named patient, clinician, appointment and encounter. It supports these operations: register a patient and clinician; schedule, reschedule, or cancel an appointment; record an encounter summary.
 
 ## Portfolio 1: Database Design and Modelling
 
 I organised the relational design into 4 tables. Primary keys identify records, foreign keys preserve the links, and checks enforce the stated business rules. A clinician cannot have two appointments at the same timestamp when each appointment status is scheduled or confirmed; enforce with a partial unique key on clinician_id and scheduled_at for those statuses. The normalisation examples show the sample data at 1NF, 2NF and 3NF. All 29 deliberately invalid inserts were rejected without changing the valid sample rows.
 
-![Hospital / Clinic System ER diagram](images/Aizenabor_Obehi_301915793_ERDiagram.png)
+![LaurineCare Hospital ER diagram](images/Aizenabor_Obehi_301915793_ERDiagram.png)
 
 Figure 1. Tables, keys and relationships. PK: primary key; FK: foreign key; UK: unique value.
 
