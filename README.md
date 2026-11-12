@@ -2,7 +2,7 @@
 
 Obehi Aizenabor · Student ID 301915793
 
-The portfolio uses fictional records for Hospital / Clinic System.
+The portfolio uses fictional records for LaurineCare Hospital.
 
 - [Portfolio 1](portfolio-1-database-design/)
 - [Portfolio 2](portfolio-2-query-optimisation/)
